@@ -1,8 +1,8 @@
 ### Hi there 👋
 👨‍💻  I am Deepak.
 
-🌱 I’m currently learning DevOps, Programming languages,RHCSA,RHCE,Full Stack.
+🌱 I’m currently learning python,DevOps(linux,ansible,docker,kubernetes),Datascience and Machine learning.
 
-💬 Interested in cyber-security, devops, web-development and programming.
+💬 Interested in DevOps,DataScience,Cloud Technology.
 
 ⚡ Fun fact: I love to Code and Decode..
